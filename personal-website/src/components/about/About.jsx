@@ -23,7 +23,7 @@ const About = () => {
               <h5>Experience</h5>
               <small>Bachelors of Science in Computer Science</small>
             </article>
-
+{/*
             <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
@@ -35,10 +35,11 @@ const About = () => {
               <h5>Experience</h5>
               <small>Bachelors of Science in Computer Science</small>
             </article>
+  */}
           </div>
 
           <p>
-            Type some stuff here about me.
+            I graduated from Middle Tennessee State University with my Bachelors in Computer Science. I am newly married (October 2023), but I have been with my husband for almost ten years. I have a black cat named Sucy, and an Australian Shepherd named Paxton. I love to go hiking, especially with anywhere that has a water feature. I also love watching TV/movies, and playing video/board games!
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Chat</a>
