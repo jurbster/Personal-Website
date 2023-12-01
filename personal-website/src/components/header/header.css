@@ -32,14 +32,20 @@ header {
 }
 
 /*if I want a line after the socials*/
-/* 
+
+.header__socials::before {
+    content: "";
+    width: 1px;
+    height: 2rem;
+    background: var(--color-primary);
+}
 .header__socials::after {
     content: "";
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
 }
-*/
+
 
 /* My Picture */
 
